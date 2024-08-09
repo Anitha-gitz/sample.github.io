@@ -13,6 +13,3 @@
   </body>
 </html>
 
-def addnum(a,b):
-  return a+b
-addnum(2,2)
